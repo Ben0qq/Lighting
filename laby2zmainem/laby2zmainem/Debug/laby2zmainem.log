@@ -1,0 +1,7 @@
+﻿  laby2zmainem.cpp
+c:\users\damid\source\repos\laby2zmainem\laby2zmainem\laby2zmainem.cpp(202): warning C4101: 'xv': unreferenced local variable
+c:\users\damid\source\repos\laby2zmainem\laby2zmainem\laby2zmainem.cpp(202): warning C4101: 'zu': unreferenced local variable
+c:\users\damid\source\repos\laby2zmainem\laby2zmainem\laby2zmainem.cpp(202): warning C4101: 'yu': unreferenced local variable
+c:\users\damid\source\repos\laby2zmainem\laby2zmainem\laby2zmainem.cpp(202): warning C4101: 'yv': unreferenced local variable
+c:\users\damid\source\repos\laby2zmainem\laby2zmainem\laby2zmainem.cpp(202): warning C4101: 'zv': unreferenced local variable
+  laby2zmainem.vcxproj -> C:\Users\damid\source\repos\laby2zmainem\Debug\laby2zmainem.exe
